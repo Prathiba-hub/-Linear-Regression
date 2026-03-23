@@ -40,3 +40,5 @@ A scatter plot is generated to compare:
 
 Actual values (y_test)
 Predicted values (y_pred)
+
+This helps visualize how well the model performs.
